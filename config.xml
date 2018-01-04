@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/BitZ" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="ZPiQY3rmJx.BitZ" package="ZPiQY3rmJx" required_version="2.3.2"/>
+    <author email="alanzhag@hotmail.com">Alan Zhao</author>
+    <content src="index.html"/>
+    <description>BTC price ticker. It includes support for Ripio and Coindesk.</description>
+    <feature name="http://tizen.org/feature/screen.size.normal"/>
+    <icon src="icon.png"/>
+    <name>BitZ</name>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:privilege name="http://tizen.org/privilege/application.launch"/>
+    <tizen:profile name="wearable"/>
+    <tizen:setting hwkey-event="enable"/>
+</widget>
