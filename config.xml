@@ -3,7 +3,7 @@
     <tizen:application id="ZPiQY3rmJx.BitZ" package="ZPiQY3rmJx" required_version="2.3.2"/>
     <author email="alanzhag@hotmail.com">Alan Zhao</author>
     <content src="index.html"/>
-    <description>BTC price ticker. It includes support for Ripio and Coindesk.</description>
+    <description>BTC price ticker. It includes support for Ripio, Coindesk and Bitstamp.</description>
     <feature name="http://tizen.org/feature/screen.size.normal"/>
     <icon src="icon.png"/>
     <name>BitZ</name>
