@@ -54,3 +54,6 @@ fabric.properties
 *signature*.xml
 *.wgt
 .*_delta*
+.idea/
+BitZ.iml
+/.sign/
